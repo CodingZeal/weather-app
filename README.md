@@ -1,5 +1,17 @@
 # Weather Checker App
 
+## Running the App
+You can either run this app locally or through Codesandbox.
+
+To run locally:
+1. Clone the app
+2. Run `npm install` or `yarn install`
+3. Run `npm start` or `yarn start`
+
+To  run through Codesandbox:
+1. Visit this link: https://codesandbox.io/s/weather-api-start-01-forked-0w4mc
+2. Click the collaboartion icon on the left sidebar (bottom most icon)
+3. Click "Fork Sandbox" button
 ## Getting Started
 
 1. Review user story, acceptance criteria and details below
